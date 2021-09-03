@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dewan-toro
+- 👋 Hi, I’m @Dewantoro
 - 👀 I’m interested in programing web
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on github
